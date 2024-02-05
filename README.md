@@ -81,20 +81,19 @@
     </a>
 </p>
 
-## Achievements
+## Certifications
 
-### [Certified AWS Technology Serverless (ATS)]([URL_TO_CERTIFICATION](https://www.credly.com/badges/6404d1b8-a31a-4272-80b1-77fced7392f7/public_url))
+### [Certified AWS Technology Serverless (ATS)](https://www.credly.com/badges/6404d1b8-a31a-4272-80b1-77fced7392f7/public_url)
 - **Issue Date**: 2023
 - **Issued By**: Amazon Web Services Training and Certification
 
-### [Certified AWS Technology Architecting (ATA)]([URL_TO_CERTIFICATION](https://www.credly.com/badges/3aa47a27-e528-4e52-8681-bf8227cb9615/public_url))
+### [Certified AWS Technology Architecting (ATA)](https://www.credly.com/badges/3aa47a27-e528-4e52-8681-bf8227cb9615/public_url)
 - **Issue Date**: 2023
 - **Issued By**: Amazon Web Services Training and Certification
 
-### [Certified AWS Storage Technologist (AST)]([URL_TO_CERTIFICATION](https://www.credly.com/earner/earned/badge/372042f6-c00f-41b0-95b6-6196b72811c7))
+### [Certified AWS Storage Technologist (AST)](https://www.credly.com/earner/earned/badge/372042f6-c00f-41b0-95b6-6196b72811c7)
 - **Issue Date**: 2023
 - **Issued By**: Amazon Web Services Training and Certification
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umerfarok&show_icons=true&locale=en&layout=compact" alt="umerfarok" /></p>
 
