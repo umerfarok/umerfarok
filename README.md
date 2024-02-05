@@ -1,14 +1,14 @@
-[![MasterHead](https://simplecoding.dev/assets/devops.gif)](https://github.com/umerfarork)
+[![MasterHead](https://simplecoding.dev/assets/devops.gif)](https://github.com/umerfarok)
 <h1 align="center">Hi 👋, I'm Umer Farooq</h1>
 <h3 align="center">A passionate  Senior Software Engineer || DevOps Engineer from Earth 🌎</h3>
 
-- 🔭 I’m currently working on [Terraform Hands-On](https://github.com/umerfarork/maxstore-infrastructure)
+- 🔭 I’m currently working on [Terraform Hands-On](https://github.com/umerfarok/maxstore-infrastructure)
 
 - 🌱 I’m currently learning **DevOps Best Practices**
 
 <!-- - 👯 I’m looking to collaborate on [Docker and Kubernetes](https://github.com/umerfarok) -->
 
-- 👨‍💻 All of my projects are available at [https://github.com/umerfarork](https://github.com/umerfarork)
+- 👨‍💻 All of my projects are available at [https://github.com/umerfarok](https://github.com/umerfarok)
 
 - 💬 Ask me about **BitBucket | AWS | Python | Terraform | Docker | Jenkins | Kubernetes | Ansible**
 
@@ -96,8 +96,8 @@
 - **Issued By**: Amazon Web Services Training and Certification
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umerfarork&show_icons=true&locale=en&layout=compact" alt="umerfarork" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umerfarok&show_icons=true&locale=en&layout=compact" alt="umerfarok" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umerfarork&show_icons=true&locale=en" alt="umerfarork" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umerfarok&show_icons=true&locale=en" alt="umerfarok" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umerfarork&" alt="umerfarork" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umerfarok&" alt="umerfarok" /></p>
