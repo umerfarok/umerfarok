@@ -81,7 +81,7 @@
     </a>
 </p>
 
-## Certifications
+## [Certifications](https://www.credly.com/users/umar-farooq.8710949c)
 
 ### [Certified AWS Technology Serverless (ATS)](https://www.credly.com/badges/6404d1b8-a31a-4272-80b1-77fced7392f7/public_url)
 - **Issue Date**: 2023
