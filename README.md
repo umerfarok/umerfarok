@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/umerfarok](https://github.com/umerfarok)
 
-- 💬 Ask me about **BitBucket | AWS | Python | Terraform | Docker | Jenkins | Kubernetes | Ansible**
+- 💬 Ask me about **Design-Microservices | AWS | Python | Terraform | Docker | Jenkins | Kubernetes | Ansible**
 
 - 📫 How to reach me **umerfarooq.dev@gmail.com**
 
