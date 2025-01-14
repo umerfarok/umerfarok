@@ -2,15 +2,14 @@
 <h1 align="center">Hi 👋, I'm Umer Farooq</h1>
 <h3 align="center">A passionate  Senior Software Engineer || DevOps Engineer from Earth 🌎</h3>
 
-- 🔭 I’m currently working on [Terraform Hands-On](https://github.com/umerfarok/maxstore-infrastructure)
+- 🔭 I’m currently working on [IASC (Terraform CDK pulumi) Hands-On](https://github.com/umerfarok/maxstore-infrastructure)
 
-- 🌱 I’m currently learning **DevOps Best Practices**
 
 <!-- - 👯 I’m looking to collaborate on [Docker and Kubernetes](https://github.com/umerfarok) -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/umerfarok](https://github.com/umerfarok)
 
-- 💬 Ask me about **Design-Microservices | AWS | Python | Terraform | Docker | Jenkins | Kubernetes | Ansible**
+- 💬 Ask me about **Design-Microservices | AWS | Golang  | Python | Terraform | Docker | Jenkins | Kubernetes | Ansible**
 
 - 📫 How to reach me **umerfarooq.dev@gmail.com**
 
